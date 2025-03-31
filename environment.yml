@@ -364,7 +364,7 @@ dependencies:
   - xorg-xextproto=7.3.0
   - xorg-xorgproto=2024.1
   - xorg-xproto=7.0.31
-  - xz=5.4.6
+  - xz>=5.4.6
   - zeromq=4.3.5
   - zipp=3.15.0
   - zlib=1.2.13
